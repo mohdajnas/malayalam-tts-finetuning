@@ -1,0 +1,4 @@
+.config/
+sample_data/
+malayalam_dataset/raw_audio/
+malayalam_dataset/processed/temp/
